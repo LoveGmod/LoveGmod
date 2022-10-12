@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @LoveGmod
-- 👀 I’m interested in Garry's Mod
-- 🌱 I’m currently learning how to script with GLua
-- 💞️ I’m actually collaborate on a Garry's Mod server project
+hello guys
+come check my big project : https://studio-cjm.xyz
+FRANCAIS
