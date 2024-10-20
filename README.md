@@ -1,3 +1,2 @@
-Yop,
-https://studio-cjm.fr
-Du super dev sur ROBLOX en SCP-RP, et Français !
+Développeur français, avancé sur le **Luau**
+Directeur du [Studio CJM](https://studio-cjm.fr)
